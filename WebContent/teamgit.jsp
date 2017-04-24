@@ -7,6 +7,6 @@
 <title>Insert title here</title>
 </head>
 <body>
-마스터입니다.
+팀깃 테스트란다.
 </body>
 </html>
